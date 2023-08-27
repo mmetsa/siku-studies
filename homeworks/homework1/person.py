@@ -6,5 +6,7 @@ class Person:
         self.__books_read = []
 
     def read_book(self, book, rating):
-        if self.__age < book.get_min_age:
+        if self.__age < book.get_min_age():
             raise Exception("Too young to read!")
+        self.__books_read.append(book)
+        book.add_rating(rating)
