@@ -1,0 +1,4 @@
+kasutajanimi,eesnimi,perenimi,isikukood,parool
+siku123,Signe,Reimets,49810105202,OlenLahe123
+maikspoiss,Maiko,Metsalu,39904065225,Superman911
+kahvel,Toomas,Tartust,37711115201,Lusikas-343
