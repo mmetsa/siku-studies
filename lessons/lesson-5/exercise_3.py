@@ -13,7 +13,7 @@ for student in grades_list:
             correct_data.append(student_data[i])
     grades_sum = 0
     grades_amount = 0
-    for i in range(1,len(correct_data)):
+    for i in range(1, len(correct_data)):
         grades_sum += int(correct_data[i])
         grades_amount += 1
     grades_avg = grades_sum / grades_amount
