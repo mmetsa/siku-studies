@@ -1,0 +1,7 @@
+{
+  "app_name": "My Awesome App",
+  "theme": "dark",
+  "font_size": 16,
+  "enable_notifications": true,
+  "api_key": "development_server_api_key"
+}
