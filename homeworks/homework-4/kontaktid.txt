@@ -1,0 +1,11 @@
+name,phone,email,gender
+Jennifer White,5671234,jennifer.white@email.com,w
+Daniel Garcia,5437890,daniel.garcia@email.com,m
+Melissa Harris,5559876,melissa.harris@email.com,w
+Christopher Clark,5123456,christopher.clark@email.com,m
+Amanda Martin,5789087,amanda.martin@email.com,w
+Matthew Lewis,5345678,matthew.lewis@email.com,m
+Laura Turner,5904321,laura.turner@email.com,w
+Justin Hill,5987654,justin.hill@email.com,m
+Rebecca Scott,5532345,rebecca.scott@email.com,w
+Nicholas Young,5678901,nicholas.young@email.com,m
